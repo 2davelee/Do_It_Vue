@@ -40,4 +40,4 @@ import Subpage from "@/layout/components/Subpage.vue";
 export default {
     components: { Subpage },
 };
-</scripts>
+</script>

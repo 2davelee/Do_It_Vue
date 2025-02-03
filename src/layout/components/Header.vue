@@ -9,7 +9,6 @@
                 </div>
                 <div class="system">
                     <button class="login" v-b-modal.login>로그인</button>
-                    </button>
                     <button class="member" v-b-modal.member>회원가입</button>
                 </div>
             </div>
