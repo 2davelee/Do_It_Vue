@@ -208,7 +208,7 @@ footer {
      display: block;
      width: 100%;
      height: 35px;
-     background: url("/images/footer-bg.png") repeat-x;
+     background: url("images/footer-bg.png") repeat-x;
      position: absolute;
      left: 0;
      top: 50px;
@@ -236,11 +236,11 @@ footer {
           display: none;
      }
      .system > button:nth-of-type(1) {
-          background: url("/images/icon-login.svg") no-repeat 0 0/100%;
+          background: url("images/icon-login.svg") no-repeat 0 0/100%;
           margin-right: 15px;
      }
      .system > button:nth-of-type(2) {
-          background: url("/images/icon-member.svg") no-repeat 0 0/100%;
+          background: url("images/icon-member.svg") no-repeat 0 0/100%;
      }
 }
 @media screen and (max-width: 767px) {
@@ -376,7 +376,7 @@ footer {
      display: block;
      width: 20px;
      height: 20px;
-     background: url("/images/pencil.svg") no-repeat left center;
+     background: url("images/pencil.svg") no-repeat left center;
      opacity: 0.4;
      position: absolute;
      left: 0;
@@ -426,7 +426,7 @@ footer {
      height: 350px;
 }
 .newbook {
-     background: url("/images/content_bg.png") repeat-x;
+     background: url("images/content_bg.png") repeat-x;
      padding: 40px 0;
 }
 .maintit {
@@ -484,7 +484,7 @@ footer {
 .slick-arrow {
      width: 42px;
      height: 42px;
-     background: url("/images/arrow-icon.png") no-repeat 0 0/100%;
+     background: url("images/arrow-icon.png") no-repeat 0 0/100%;
      font-size: 0;
      position: absolute;
      top: 50%;
@@ -714,7 +714,7 @@ footer {
 .btn-noticemore {
      width: 25px;
      height: 25px;
-     background: url("/images/arrow-icon.png") no-repeat 0 0/100%;
+     background: url("images/arrow-icon.png") no-repeat 0 0/100%;
      position: absolute;
      top: 17px;
      right: 20px;
@@ -793,7 +793,7 @@ header.scrollTop::after {
      border-bottom: solid 1px #ddd;
      margin-bottom: 10px;
      padding-bottom: 10px;
-     background: url("/images/event-end-img.png") left top/100%;
+     background: url("images/event-end-img.png") left top/100%;
 }
 .titlebar > h1 {
      font-size: 35px;
@@ -806,7 +806,7 @@ header.scrollTop::after {
 .pagenavi > strong {
      color: #222;
      display: inline-block;
-     background: url("/images/icon_16_arrow_small_right.svg") no-repeat 0 center/16px;
+     background: url("images/icon_16_arrow_small_right.svg") no-repeat 0 center/16px;
      padding-left: 16px;
 }
 @media screen and (max-width: 767px) {
@@ -897,7 +897,7 @@ header.scrollTop::after {
      display: block;
      width: 18px;
      height: 18px;
-     background: url("/images/file-text.svg") no-repeat left center/100%;
+     background: url("images/file-text.svg") no-repeat left center/100%;
      opacity: 0.3;
      position: absolute;
      left: 0;
@@ -1101,7 +1101,7 @@ header.scrollTop::after {
      margin-top: 5px;
 }
 .introcon {
-     background: url("/images/main_ico2.png") no-repeat right 10px/190px;
+     background: url("images/main_ico2.png") no-repeat right 10px/190px;
 }
 .introgroup {
      padding-right: 300px;
@@ -1115,7 +1115,7 @@ header.scrollTop::after {
      color: #222;
 }
 .introgroup:nth-of-type(2) {
-     background: url("/images/main_ico1.png") no-repeat left 0px/ 200px;
+     background: url("images/main_ico1.png") no-repeat left 0px/ 200px;
      padding: 0 0 0 300px;
 }
 @media screen and (max-width: 767px) {
@@ -1129,7 +1129,7 @@ header.scrollTop::after {
           font-size: 18px;
      }     
      .introgroup:nth-of-type(2) {
-          background: url("/images/main_ico1.png") no-repeat center 0px/ 200px;
+          background: url("images/main_ico1.png") no-repeat center 0px/ 200px;
           padding: 193px 0 0 0px;
      }
 }
