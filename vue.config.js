@@ -4,7 +4,8 @@ module.exports = defineConfig({
   lintOnSave:false,
 })
 module.exports = {
-  publicPath: "/Do_It_Vue/",
-};
-
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/Do_It_Vue/'
+    : '/'
+}
 
