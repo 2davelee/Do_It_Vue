@@ -3,7 +3,7 @@
         <div class="topmenu">
             <div class="contentbox">
                 <div class="logo">
-                    <button v-on:click="goTOPage('/main')">
+                    <button v-on:click="goToPage('/main')">
                         <img src="images/logo.png" alt="이지스퍼블리싱 로고" />
                     </button>
                 </div>
