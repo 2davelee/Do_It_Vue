@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="footerinfo">
-            <div class="footer-logo"><img src="/images/footer-logo.png" /></div>
+            <div class="footer-logo"><img src="images/footer-logo.png" /></div>
             <div class="footer-sub">
                 <address>
                     서울시 마포구 잔다리로 109 이지스퍼블리싱 <span>Tel 02-1234-12345</span>
